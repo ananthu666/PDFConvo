@@ -1,8 +1,8 @@
-x# PDFConvo
+# PDFConvo
 
 
 
-<img src="./">
+<img src="https://github.com/ananthu666/PDFConvo/blob/main/screenshot/pdf_convo_ss.png">
 
 # [Link To Video](./)
 
