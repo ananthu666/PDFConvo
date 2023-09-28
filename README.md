@@ -2,7 +2,7 @@
 
 
 
-<img src=""/>
+<img src="./">
 
 # [Link To Video](./)
 
