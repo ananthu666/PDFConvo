@@ -13,8 +13,11 @@ from langchain.chains import LLMChain
 import textwrap
 from pdf_text import texter
 # //////////////
+import os
 
-embeddings = OpenAIEmbeddings(openai_api_key='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')
+load_dotenv()
+api_key = os.getenv("api_key")
+embeddings = OpenAIEmbeddings(openai_api_key=api_key)
 
 
 def loading(filename):
