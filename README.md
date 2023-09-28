@@ -51,7 +51,7 @@ PDFConvo's functionality is built on three core components. Firstly, it employs 
 
 ## How to run
 ```bash
-$ streamlit run streamlit_frontend.py
+$ streamlit run frontend.py
 ```
 
 
