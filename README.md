@@ -1,4 +1,4 @@
-# PDFConvo
+x# PDFConvo
 
 
 
@@ -40,7 +40,7 @@
 
 ## How to run
 ```bash
-$ streamlit run Maveli_chat_bot.py
+$ streamlit_frontend.py
 ```
 
 
