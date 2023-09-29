@@ -4,7 +4,7 @@ PDFConvo is an innovative document interaction system that empowers users to hav
 
 <img src="https://github.com/ananthu666/PDFConvo/blob/main/screenshot/pdf_convo_ss.png">
 
-# [Link To Video](./)
+# [Link To Video](https://www.youtube.com/watch?v=YnownlTMzn8)
 
 # [Chat with Bot](./)
 
